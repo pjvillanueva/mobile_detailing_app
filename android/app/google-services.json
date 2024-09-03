@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1030190362045",
+    "project_id": "nook-and-cranny-admin-app",
+    "storage_bucket": "nook-and-cranny-admin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030190362045:android:9407ba6dfa32ce09ac36d4",
+        "android_client_info": {
+          "package_name": "com.example.mobile_detailing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030190362045-lbjm3uc61r097qqho5om2dttfsqagfei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9RneBftKWH8YiAAacjXhryn4J-3l-sNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030190362045-lbjm3uc61r097qqho5om2dttfsqagfei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030190362045-ee9cdnvcd4irri3khv7jjmbajj0nkoft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobileDetailingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
